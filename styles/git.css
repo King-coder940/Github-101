@@ -10,3 +10,14 @@ div{
 .mulu{
 background-color: bisque;
 }
+ol{
+    color: red;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.l{
+    font-weight: 300px;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
